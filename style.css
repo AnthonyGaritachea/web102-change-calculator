@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+.user-input {
+    background-color: #c4c8cf;
+    text-align: center;
+}
+
+.user-input h1 {
+    font-size: 50px;
+}
+
+#amount-due {
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+#amount-received {
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+#calculate-change {
+    margin: 15px 0px;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.dollar-board {
+    text-align: center;
+    margin: 20px 0px;
+    background-color: #c4c8cf;
+    
+}
+
+.coins-board {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: #c4c8cf;
+}
